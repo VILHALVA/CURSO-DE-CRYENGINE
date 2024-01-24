@@ -2,17 +2,9 @@
 👨‍⚖️A CRYENGINE É UMA ENGINE DE JOGO DESENVOLVIDA PELA CRYTEK, UTILIZADA PARA CRIAR JOGOS DE ALTA QUALIDADE COM GRÁFICOS AVANÇADOS E FÍSICA REALISTA.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=CRYENGINE)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.cryengine.com/) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-LUA)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL3rePi75166S-_KYHjd1yLxZEWyR63nzf&si=BuYErIwRn2VRr7wD)
-
-<img src="https://static.wikia.nocookie.net/logopedia/images/c/cf/CRYENGINE_3_Logo.png/revision/latest/scale-to-width-down/250?cb=20190309071553" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 A CryEngine é uma poderosa engine de jogo utilizada para desenvolver jogos de alta qualidade. Vou abordar alguns conceitos básicos e fornecer um exemplo simples de código usando a CryEngine:
