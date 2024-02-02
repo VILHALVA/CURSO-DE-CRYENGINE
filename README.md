@@ -1,12 +1,9 @@
 # CURSO DE CRYENGINE
 👨‍⚖️A CRYENGINE É UMA ENGINE DE JOGO DESENVOLVIDA PELA CRYTEK, UTILIZADA PARA CRIAR JOGOS DE ALTA QUALIDADE COM GRÁFICOS AVANÇADOS E FÍSICA REALISTA.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.cryengine.com/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-LUA)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL3rePi75166S-_KYHjd1yLxZEWyR63nzf&si=BuYErIwRn2VRr7wD)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 A CryEngine é uma poderosa engine de jogo utilizada para desenvolver jogos de alta qualidade. Vou abordar alguns conceitos básicos e fornecer um exemplo simples de código usando a CryEngine:
 
 1. **Entity (Entidade):** No contexto da CryEngine, uma entidade é basicamente qualquer objeto no jogo. Pode ser um jogador, inimigo, item no cenário, etc. Cada entidade possui propriedades e comportamentos associados.
@@ -43,8 +40,8 @@ end
 
 Lembre-se de integrar este script a uma entidade na CryEngine para ver o resultado. Estes são conceitos iniciais e o desenvolvimento em CryEngine pode envolver muitos outros aspectos como design de níveis, manipulação de assets, controle de animações, entre outros.
 
-# CARACETERISTICAS:
-## Características Positivas:
+## CARACETERISTICAS:
+### POSITIVAS:
 1. **Gráficos de Alta Qualidade:** A CryEngine é conhecida por oferecer gráficos de alta qualidade, com efeitos visuais impressionantes, iluminação avançada e detalhes realistas.
 
 2. **Sistema de Física Avançado:** A engine possui um sólido sistema de física que permite simulações realistas, o que é crucial para jogos que buscam autenticidade em termos de movimento e interação no ambiente.
@@ -55,7 +52,7 @@ Lembre-se de integrar este script a uma entidade na CryEngine para ver o resulta
 
 5. **Sistema de Som:** A engine possui um sistema de áudio avançado, permitindo a implementação de trilhas sonoras envolventes e efeitos sonoros realistas.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Curva de Aprendizado Elevada:** A CryEngine pode ter uma curva de aprendizado mais íngreme em comparação com algumas outras engines, especialmente para desenvolvedores iniciantes.
 
 2. **Licenciamento:** Embora a CryEngine seja gratuita para projetos não comerciais, há custos associados ao uso comercial da engine. O licenciamento pode ser mais caro do que outras opções disponíveis.
@@ -65,4 +62,10 @@ Lembre-se de integrar este script a uma entidade na CryEngine para ver o resulta
 4. **Menor Quantidade de Recursos Prontos:** Em comparação com engines mais estabelecidas, a CryEngine pode ter uma quantidade menor de recursos prontos para uso, o que pode aumentar o tempo de desenvolvimento.
 
 5. **Menos Flexibilidade Multiplataforma:** Embora a CryEngine seja capaz de exportar para várias plataformas, pode haver desafios adicionais ao desenvolver para certas plataformas em comparação com engines que se especializam mais nisso.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CAMALEÃO DIGITAL"](https://youtube.com/playlist?list=PL3rePi75166S-_KYHjd1yLxZEWyR63nzf&si=BuYErIwRn2VRr7wD)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://docs.cryengine.com/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-LUA)
 
