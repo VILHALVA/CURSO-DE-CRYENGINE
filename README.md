@@ -14,32 +14,6 @@ A CryEngine é uma poderosa engine de jogo utilizada para desenvolver jogos de a
 
 4. **Flow Graph:** Um sistema visual de programação que permite criar lógica de jogo sem escrever código. Pode ser usado para definir comportamentos complexos e interações entre entidades.
 
-**Exemplo de Código:**
-
-Vamos criar um script simples em Lua (linguagem de script comumente usada na CryEngine) que faz uma entidade imprimir uma mensagem no console quando é inicializada.
-
-```lua
--- Nome do arquivo: MyScript.lua
-
-MyScript = {
-  Properties = {
-    Message = "Olá, Mundo!",
-  }
-}
-
-function MyScript:OnActivate()
-  System.Log(self.Properties.Message)
-end
-```
-
-**Explicação do Código:**
-
-- `MyScript` é uma tabela que age como a classe para nosso script.
-- `Properties` define propriedades da entidade associada ao script. Neste caso, temos uma propriedade chamada `Message`.
-- `OnActivate` é chamado quando a entidade é ativada no jogo. Neste exemplo, ele imprime a mensagem definida na propriedade no console do jogo.
-
-Lembre-se de integrar este script a uma entidade na CryEngine para ver o resultado. Estes são conceitos iniciais e o desenvolvimento em CryEngine pode envolver muitos outros aspectos como design de níveis, manipulação de assets, controle de animações, entre outros.
-
 ## CARACETERISTICAS:
 ### POSITIVAS:
 1. **Gráficos de Alta Qualidade:** A CryEngine é conhecida por oferecer gráficos de alta qualidade, com efeitos visuais impressionantes, iluminação avançada e detalhes realistas.
@@ -68,4 +42,5 @@ Lembre-se de integrar este script a uma entidade na CryEngine para ver o resulta
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.cryengine.com/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-LUA)
+- [VEJA A SINTAXE](./SINTAXE.md)
 
